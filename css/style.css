@@ -23,12 +23,28 @@ h2 {
   margin-right: auto;
 }
 
-h3 {
+#astrobiology {
   font-size: 2rem;
   width: 70%;
   margin-left: auto;
   margin-right: auto;
-  color: darkslateblue;
+  color: rgb(53, 126, 112);
+}
+
+#stars {
+  font-size: 2rem;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  color: rgb(112, 21, 21);
+}
+
+#exoplanets {
+  font-size: 2rem;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  color: rgb(42, 40, 184);
 }
 
 h4 {
@@ -145,7 +161,7 @@ footer a:hover {
 }
 
 .subtitulos {
-  font-size: 20px;
+  font-size: 25px;
   font-weight: bold;
 }
 
