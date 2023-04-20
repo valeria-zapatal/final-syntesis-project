@@ -4,7 +4,7 @@ html {
 
 body {
   margin: 0;
-  background-color: #0a0527;
+  background-image: url("https://definicion.de/wp-content/uploads/2008/12/universo-1.jpg");
 }
 
 header h1 {
@@ -149,7 +149,7 @@ footer a:hover {
   display: none;
   padding: 0.25rem 0;
   border: 1px solid #ccc;
-  background-color: #fff;
+  background-color: rgb(233, 233, 233);
   border-top: none;
   border-radius: 0.5rem;
   width: 800px;
